@@ -1,11 +1,21 @@
+html,
+body {
+  height: 100%;
+}
+
 .box {
   padding-top: 10px;
   padding-left: 15px;
   padding-right: 12px;
   padding-bottom: 18px;
-  border: 1px solid purple;
+  border: 2px solid purple;
   margin-top: 2px;
   margin-left: 1px;
   margin-right: 5px;
   margin-bottom: 8px;
+}
+
+.first {
+  height: 100%;
+  box-sizing: border-box;
 }
