@@ -10,13 +10,12 @@ body {
   padding-bottom: 18px;
   border: 2px solid purple;
   box-sizing: border-box;
-
   display: inline-block;
   width: 48%;
   margin: 0;
 }
 
 .first {
-  height: 300px;
-  box-sizing: border-box;
+  /* display: none; */
+  visibility: hidden;
 }
