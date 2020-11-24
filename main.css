@@ -13,7 +13,7 @@ body {
   margin-left: 1px;
   margin-right: 5px;
   margin-bottom: 8px;
-  display: inline;
+  display: inline-block;
 }
 
 .first {
