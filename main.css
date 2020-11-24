@@ -16,6 +16,7 @@ body {
 }
 
 .first {
-  height: 100%;
+  height: 300px;
   box-sizing: border-box;
+  width: 50%;
 }
