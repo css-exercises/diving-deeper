@@ -19,3 +19,8 @@ body {
   /* display: none; */
   visibility: hidden;
 }
+
+div:last-of-type:hover {
+  color: darkblue;
+  background-color: cadetblue;
+}
