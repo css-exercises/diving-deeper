@@ -1,5 +1,11 @@
 .box {
-  padding: 10px;
+  padding-top: 10px;
+  padding-left: 15px;
+  padding-right: 12px;
+  padding-bottom: 18px;
   border: 1px solid purple;
-  margin: 2px;
+  margin-top: 2px;
+  margin-left: 1px;
+  margin-right: 5px;
+  margin-bottom: 8px;
 }
