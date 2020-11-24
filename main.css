@@ -13,10 +13,10 @@ body {
   margin-left: 1px;
   margin-right: 5px;
   margin-bottom: 8px;
+  display: inline;
 }
 
 .first {
   height: 300px;
   box-sizing: border-box;
-  width: 50%;
 }
